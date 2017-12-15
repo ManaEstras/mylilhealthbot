@@ -12,8 +12,8 @@ This is the narrative product App for Product Studio My Lil' Healthbot Team from
   
 ## Links
 
-  Sprint Presentation: 
+  * Sprint Presentation - 
   https://drive.google.com/open?id=15SgRK17wZmdtUqyGa7T8YdB4CuaI_Ktmb9gYbHw_5fQ
-  Cornell Tech Product Studio - Fall 2017
+  * Cornell Tech Product Studio - Fall 2017 - 
   http://ec2-52-90-161-124.compute-1.amazonaws.com/team/littlehealthboth-robot-retailer.html
   
